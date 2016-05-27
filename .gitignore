@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitIgnore file - initial setting of excluding
 # WebDev projects - sites
 # rev.A
@@ -16,6 +17,8 @@
 
 
 # Section [files]
+=======
+>>>>>>> b72e09b30af2dee6df276b793beaa8a04801fe22
 # Folder view configuration files
 .DS_Store
 Desktop.ini
@@ -38,4 +41,7 @@ Thumbs.db
 venv
 node_modules
 .sass-cache
+<<<<<<< HEAD
 
+=======
+>>>>>>> b72e09b30af2dee6df276b793beaa8a04801fe22
