@@ -1,0 +1,41 @@
+# GitIgnore file - initial setting of excluding
+# WebDev projects - sites
+# rev.A
+
+# Section [folders]
+# Ignore folders:
+/00.Exchange/*
+/01.Initial data/*
+/02.Specification/*
+/03.Design/*
+/05.Price/*
+/06.Offer/*
+/07.Conract/*
+/08.Others/*
+
+
+
+# Section [files]
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# Application specific files
+venv
+node_modules
+.sass-cache
+
